@@ -67,7 +67,7 @@
             "edit": true
         },
         "tbfed-pagefooter": {
-            "copyright": "© 云阁信息 | <a href='https://www.fanshujieyue.com/' target='_blank' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
+            "copyright": "© 云阁信息 | <a href='https://beian.miit.gov.cn' target='_blank' style='text-decoration:none!important;'>沪ICP备19019457号-1</a> | <a href='https://www.fanshujieyue.com/' target='_blank' style='text-decoration:none!important;'>官网</a> | <a href='/sitemap.xml' style='text-decoration:none!important;' target='_blank'>网站地图</a>",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         },
@@ -158,7 +158,7 @@
             "token": "2d800fd3cc85de752111dc6845320916"
         },
         "ga4": {
-            "tag": "G-EE5J5LB4MD"
+            "tag": "G-T5878CCZ4D"
         },
         "lanying-grow-ai": {
             "footer_note": "本文为知识分享和技术探讨之用，涉及到公司或产品（包括但不限于蓝莺IM）介绍内容仅为参考，具体产品和功能特性以官网开通为准。",
