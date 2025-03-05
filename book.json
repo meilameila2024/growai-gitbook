@@ -166,7 +166,7 @@
             "sitemap_hostname": "https://cases.fanshujieyue.com/",
             "friendship_links_prefix": "**友情链接：**",
             "friendship_links": "[蓝莺IM](https://docs.lanyingim.com/?utm_source=fanshujieyue&utm_medium=fanshujieyue&utm_campaign=fanshujieyue&utm_content=fanshujieyue&utm_term=fanshujieyue)",
-            "friendship_links_position": "homepage",
+            "friendship_links_position": "homepage"
         }
     }
 }
