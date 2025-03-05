@@ -1,8 +1,8 @@
 # Table of contents
 
 * [番薯借阅官网](https://www.fanshujieyue.com/)
-* [Gitbook Template](README.md)
-* [articles](articles/README.md)
+* [简介](README.md)
+* [案例](articles/README.md)
   * [最新](articles/latest/README.md)
     * [系统如何与图书馆现有门禁系统对接？](articles/system-library-access-control-integration-87-20250304-2-1-1741088896.md)
     * [是否支持通过API集成到企业OA系统？](articles/api-integration-enterprise-oa-system-87-20250304-2-2-1741088910.md)
